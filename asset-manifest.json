@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/memory-react/static/css/main.ca9eff02.chunk.css",
+    "main.js": "/memory-react/static/js/main.d4521f5c.chunk.js",
+    "main.js.map": "/memory-react/static/js/main.d4521f5c.chunk.js.map",
+    "runtime~main.js": "/memory-react/static/js/runtime~main.7c494fe2.js",
+    "runtime~main.js.map": "/memory-react/static/js/runtime~main.7c494fe2.js.map",
+    "static/js/2.76d8ed81.chunk.js": "/memory-react/static/js/2.76d8ed81.chunk.js",
+    "static/js/2.76d8ed81.chunk.js.map": "/memory-react/static/js/2.76d8ed81.chunk.js.map",
+    "index.html": "/memory-react/index.html",
+    "precache-manifest.5f1544fbbbeb324847c51546bc7dcd7e.js": "/memory-react/precache-manifest.5f1544fbbbeb324847c51546bc7dcd7e.js",
+    "service-worker.js": "/memory-react/service-worker.js",
+    "static/css/main.ca9eff02.chunk.css.map": "/memory-react/static/css/main.ca9eff02.chunk.css.map",
+    "static/media/p1.png": "/memory-react/static/media/p1.2043fdd7.png",
+    "static/media/p10.png": "/memory-react/static/media/p10.c7917306.png",
+    "static/media/p11.png": "/memory-react/static/media/p11.9acd971c.png",
+    "static/media/p12.png": "/memory-react/static/media/p12.0f85bf42.png",
+    "static/media/p2.png": "/memory-react/static/media/p2.14e0db5f.png",
+    "static/media/p3.png": "/memory-react/static/media/p3.543afab6.png",
+    "static/media/p4.png": "/memory-react/static/media/p4.4e4460ca.png",
+    "static/media/p5.png": "/memory-react/static/media/p5.0eddb360.png",
+    "static/media/p6.png": "/memory-react/static/media/p6.77d44444.png",
+    "static/media/p7.png": "/memory-react/static/media/p7.70b12c71.png",
+    "static/media/p8.png": "/memory-react/static/media/p8.8121c8fa.png",
+    "static/media/p9.png": "/memory-react/static/media/p9.477317b0.png"
+  }
+}
