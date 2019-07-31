@@ -1,8 +1,22 @@
+@keyframes BackgroundAnimated {
+  from {
+      background-position:0 0
+  }
+  to {
+      background-position:100% 0
+  }
+}
+
 body {
+  background-color: #1e2424;
+  background-image: url("http://getwallpapers.com/wallpaper/full/5/d/e/202128.jpg")!important;
   margin: 0;
+  animation: BackgroundAnimated 10s linear infinite;
+  font-family: 'Lacquer', sans-serif;
+
 }
 
 a {
-  color: white;
+  color: rgb(201, 21, 21);
   text-decoration: none;
 }
